@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+env/
+.venv/
+data/
+logs/
+.agents/
+*.pyc
+*.pkl
+node_modules/
+frontend/dist/
+backend/.env
+.env

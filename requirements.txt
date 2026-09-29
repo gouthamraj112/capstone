@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+prophet
+# streamlit removed in favor of React frontend
+matplotlib
+seaborn
+plotly
+fastapi
+uvicorn
+pydantic
+joblib
+scikit-multiflow
+tsfresh
+rich
